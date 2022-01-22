@@ -1,4 +1,4 @@
-### Sastisfação, seja bem-vindo! 👋
+### Satisfação, seja bem-vindo! 👋
 
 <div align="center">
   <a href="https://github.com/wilhan-git">
